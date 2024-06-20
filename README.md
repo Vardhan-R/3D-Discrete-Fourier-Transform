@@ -1,5 +1,5 @@
-# 3d-Discrete-Fourier-Transform
-Discrete Fourier transform in 3d using PyOpenGL.
+# 3D Discrete Fourier Transform
+Discrete Fourier transform in 3D using PyOpenGL.
 
 ## Installation
 1. Download the repository (or just the [`main.py`](main.py) file will suffice).
