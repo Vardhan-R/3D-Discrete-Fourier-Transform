@@ -13,7 +13,7 @@ Discrete Fourier transform in 3d using PyOpenGL.
 
 3. Below that are various examples for starting points, including randomly generated points, preset points and a helix.
 
-4. The variable `dt` can be varied to change the speed of the drawing, and the variable `cyclic_drawing` can be set to `False` to _not_ join the last point to the first.
+4. The variable `dt` can be varied to change the drawing speed, and the variable `cyclic_drawing` can be set to `False` to _not_ join the last point to the first.
 
 ## Theory
 Click [here](docs/Multidimensional_Discrete_Fourier_Transform.pdf) to know more about the mathematical details.
